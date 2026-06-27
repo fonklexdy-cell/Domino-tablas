@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Desafío MetaVidaDigital</title>
+    <title>Desafío Arrastra - Pega</title>
     <style>
         body { background: #1a237e; color: white; font-family: 'Arial', sans-serif; text-align: center; margin: 0; padding: 20px; }
         #display-score { font-size: 2.5rem; color: #ffea00; margin: 10px; font-weight: bold; }
@@ -32,7 +32,7 @@
 </head>
 <body>
 
-    <h1>🚀 ¡Desafío MetaVidaDigital! 🚀</h1>
+    <h1>🚀 ¡Desafío Arrastra - Pega! 🚀</h1>
     <div id="display-score">Puntaje: 0</div>
     
     <div class="controles">
