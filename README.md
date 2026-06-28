@@ -178,7 +178,7 @@
             playBeep('teleport');
             // Pequeño retraso para que alcance a sonar el efecto antes de redirigir
             setTimeout(() => {
-                window.open("https://mateken2.netlify.app/", "_blank");
+                window.open("https://mateken2.pages.dev/", "_blank");
             }, 300);
         }
     </script>
